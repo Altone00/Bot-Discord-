@@ -1,0 +1,12 @@
+{
+  "name": "djkhaled",
+  "version": "0.1.8",
+  "description": "Musique discord",
+  "main": "main.js",
+  "repository": "https://github.com/Altone00/Bot-Discord-.git",
+  "author": "Altone00 <tom76.bulard@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
